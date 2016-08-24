@@ -23,5 +23,13 @@ Import Live2D and read mtn file In Unity3D
 兩個資料夾放入Assets/Scripts中  
 ![Import Live2D](http://imgur.com/HwjolU7.jpg)  
 接著把CreateCanvas.cs與Live2DImporter.cs放置在Assets/Editor下
-![Import Live2D]( http://imgur.com/hTqSgVe.jpg)  
+![Import Live2D]( http://imgur.com/hTqSgVe.jpg) 
+
+##Import Live2D model  
+將要使用的Live2D model放置在Assets/Resources/live2d下  
+並將Live2D_Canvas拖曳至Assets/Resources/下方  
+這邊使用Live2D 中 Sample Material的haru
+![Import Live2D](http://imgur.com/QSdhctH.jpg)  
+![Import Live2D](http://imgur.com/yngxpgM.jpg)
+
   
