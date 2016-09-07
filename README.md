@@ -30,6 +30,10 @@ Import Live2D and read mtn file In Unity3D
 並將Live2D_Canvas拖曳至Assets/Resources/下方  
 這邊使用Live2D 中 Sample Material的haru
 ![Import Live2D](http://imgur.com/QSdhctH.jpg)  
-![Import Live2D](http://imgur.com/yngxpgM.jpg)
+![Import Live2D](http://imgur.com/yngxpgM.jpg)  
+完成後會在menu bar中看到Live2D的選項，  
+有這個選項就可以在場景中建置一個放置Model的Canvas。
+![Menubar Live2D](http://imgur.com/0mugZhB.jpg)  
 
+#呼叫mtn檔的方法 1
   
